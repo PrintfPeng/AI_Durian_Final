@@ -18,3 +18,4 @@ echo.
 echo # === Misc ===
 echo .vercel
 ) > .gitignore
+node_modules
