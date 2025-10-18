@@ -1,0 +1,6 @@
+{
+  "ALGAL_LEAF_SPOT": 0,
+  "HEALTHY_LEAF": 1,
+  "LEAF_BLIGHT": 2,
+  "PHOMOPSIS_LEAF_SPOT": 3
+}

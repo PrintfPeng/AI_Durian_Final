@@ -1,0 +1,20 @@
+(
+echo # === Frontend (Vite/React) ===
+echo node_modules
+echo dist
+echo .vite
+echo .env
+echo .env.*
+echo .DS_Store
+echo.
+echo # === Backend (FastAPI) ===
+echo backend\.venv
+echo backend\__pycache__
+echo backend\*.keras
+echo backend\*.h5
+echo backend\savedmodel*/
+echo backend\.env
+echo.
+echo # === Misc ===
+echo .vercel
+) > .gitignore
